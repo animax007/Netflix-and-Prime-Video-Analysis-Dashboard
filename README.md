@@ -77,7 +77,11 @@ Regional Focus: Prime Video has a stronger presence in regional markets compared
 # Files in This Repository
 - `netflix_titles (1).csv/`: Contains the raw dataset in CSV format.
 - `visuals.jpeg/`: Includes JPEG images of visualizations.
-- `Netflix PowerBI File (1).pbix/`: Contains the Power BI report file (.pbix).
+- Download the Power BI file: [dashboard.pbix](Netflix PowerBI File (1).pbix)
+  
+
+
+
 
 # Tools and Technologies
 Data Cleaning & Transformation: Microsoft Excel, SQL
