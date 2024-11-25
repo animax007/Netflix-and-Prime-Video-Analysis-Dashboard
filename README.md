@@ -6,7 +6,8 @@ This Power BI project visualizes data from Netflix and Prime Video, providing in
 
 ## Project Overview
 This project focuses on analyzing and comparing data from Netflix and Prime Video to uncover patterns in content offerings, popularity trends, and regional distributions. The workflow involves data cleaning, transformation, and analysis using **Excel** and **SQL**, followed by creating dynamic visualizations in **Power BI**.
-![Netflix Dashboard Screenshot](Screenshot.png)
+
+![netflix Dashboard Screenshot](Screenshot.png)
 
 ---
 
@@ -16,6 +17,8 @@ This project focuses on analyzing and comparing data from Netflix and Prime Vide
 3. Provide actionable insights to improve content strategies for both streaming platforms.
 
 ---
+
+![Prime video Dashboard Screenshot](Screenshots.png)
 
 ## Process Workflow
 ### **1. Data Extraction**
