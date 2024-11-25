@@ -75,8 +75,8 @@ Release Trends: Netflix consistently releases more content annually, while Prime
 Regional Focus: Prime Video has a stronger presence in regional markets compared to Netflix.
 
 # Files in This Repository
-- `netflix_titles (1).csv/`: Contains the raw dataset in CSV format.
-- `visuals.jpeg/`: Includes JPEG images of visualizations.
+-  [Contains the raw dataset in CSV format](netflix_titles.csv)
+- [Includes JPEG images of visualizations](visuals.jpeg)
 - Download the Power BI file: [Netflix Power BI File](Netflix_PowerBI.pbix)
 
   
